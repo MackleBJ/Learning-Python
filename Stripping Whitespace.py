@@ -20,6 +20,6 @@ str1, str2, str3 = "python  ", "   python", "   python  "
 str1, str2, str3 = str1.strip(), str2.strip(), str3.strip()
 
 if str1 == str2 == str3:
-    print ("You're a good Stripper!")
+    print ("Good Job!")
 else:
-    print ("You should stick to your day job.")
+    print ("Let's try that again.")
